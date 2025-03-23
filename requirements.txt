@@ -1,0 +1,5 @@
+Flask
+ansible
+ansible-runner
+requests
+streamlit
